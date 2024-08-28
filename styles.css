@@ -2,15 +2,15 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 5%;
+  margin-top: 10%; /* Adjust the percentage as needed for vertical centering */
   background-color: white;
 }
 
-body{
+body {
   margin: auto;
   background-color: #9DBDFF;
 }
 
-header{
+header {
   background-color: white;
 }
